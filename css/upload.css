@@ -1,0 +1,14 @@
+html,body{
+	margin:0;
+	padding:0;
+}
+div#dropbox{
+	width:500px;
+	height:300px;
+	/*margin:0 auto;*/
+	margin:0;
+	float:left;
+	border-width:1px;
+	border-color:blue;
+	border-style:solid;
+}
