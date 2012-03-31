@@ -1,0 +1,6 @@
+drag in to upload file, and generate QRcode.
+then you can get the file with cellphone.
+
+file will be uploaded into ./upload/
+you can modify the path in upload.php
+
